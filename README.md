@@ -17,3 +17,6 @@ Eg. for instance there are 2 viewers A and B and A has viewed movies with id 1,5
 
 "collaborative_filtering_recommendation_system.ipynb" discusses the recommendation system built with 
 "https://www.kaggle.com/tmdb/tmdb-movie-metadata" dataset which recommends you the movies which are similar.It uses sigmoid kernal to predict the movies based on overview of the movie
+
+
+"Genre based Recommendation System.ipynb" discusses the recommendation system built with  https://www.kaggle.com/rounakbanik/the-movies-dataset dataset which recommends you the movies which are of same genre based on imdb ratings and number of votes
