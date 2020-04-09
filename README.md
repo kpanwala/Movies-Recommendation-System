@@ -20,3 +20,5 @@ Eg. for instance there are 2 viewers A and B and A has viewed movies with id 1,5
 
 
 "Genre based Recommendation System.ipynb" discusses the recommendation system built with  https://www.kaggle.com/rounakbanik/the-movies-dataset dataset which recommends you the movies which are of same genre based on imdb ratings and number of votes
+
+"Hybrid_Movie_Recommender_Systems.ipynb" discusses the recommendation system built with "https://www.kaggle.com/rounakbanik/the-movies-dataset" dataset which recommends user the movies based on his watch history and also based on votes by other users using concept of SVD .
